@@ -1,0 +1,11 @@
+title: Surviving the Storm
+description: Personal record and investigation
+theme: minima
+
+# Top navigation links. Add or remove pages here any time.
+header_pages:
+  - index.md
+  - about.md
+  - timeline.md
+  - threats.md
+  - investigation.md
